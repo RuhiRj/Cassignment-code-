@@ -166,7 +166,6 @@ int main()
     return 0;
 }
 //wap which takes the cost price and selling price of a product from the user. now calculate and print profit or loss percentage
-
 #include<stdio.h>
 int main()
 {
