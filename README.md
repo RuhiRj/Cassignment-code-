@@ -1,2 +1,2 @@
 # bootcamp
-first assignment
+C language assignments
